@@ -53,16 +53,21 @@ Description / proposition de valeur unique
 
 # Équipe 4 : Nom du projet
 
-Description / proposition de valeur unique
+Survival Project
+
+Dans un monde où tout espoir semble éteins et l'humanité disparu, une équipe de survivants parvient malgré tout à se rassembler pour s'unir et survivre aux dangers du nouveau monde...
 
 ## Équipe
-
-* Nom Prénom
-* ...
+Brian Mulier
+Quentin Behague
+Ryad Banoukhti
+François Hugoo
+William Vermersch
+Jérome Rohaert
 
 ## Resources
 
-* git : 
+* git :  https://git-iut.univ-lille1.fr/mulierb/ProjetAgileS3
 
 # Équipe 5 : Nom du projet
 
